@@ -12,3 +12,5 @@ Con el fin de resolver esta problemática, diferentes organizadores, como el Com
 
 ![image](https://user-images.githubusercontent.com/82826016/115754364-5b0e1b00-a359-11eb-921a-6559bf0b2d53.png) Figura 1. Resultados de la revisón sistemática de archivos Excel sumplementarios. Fuente: (Ziemann et al., 2016)  
 #### Bibliografía
+
+Bezjak, S., Clyburne-Sherin, A., Conzett, P., Fernandes, P., Görögh, E., Helbinf, K., Psomopoulos, F., Ross-Hellauer, T., Scheider, R., Tennant, J., Verbakel, E., Brinken, H., & Heller, L. (2018). Open Science Training Handboook, Zenodo.  (https://doi.org/10.5281/ZENODO.1212496)
