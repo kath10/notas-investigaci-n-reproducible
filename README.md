@@ -10,10 +10,9 @@ Importancia de la reproductibilidad
 
 Con el fin de resolver esta problemática, diferentes organizadores, como el Comité Internacional de Publicaciones de Medicina o la Administración de Aliemntos y Medicamentos de Estados Unidos [(FDA)](https://www.fda.gov/about-fda/fda-en-espanol), empezaron a publicar lineamientos para atacar los probelmas derivados de una inadecuada documentación de lo datos utilizados en las investigaciones. Así por ejemplo, como se muestra en la figura 1, Mark Zienman encontró en 2016 que un 20% de los artículos con archivos de datos suplemenatrios publicados en revistas científicas contenían errores en los nombres de los genes, debido a los parámetros de configuración de Microsoft Excel (Ziemann et al., 2016).  
 
-![image](https://user-images.githubusercontent.com/82826016/115754364-5b0e1b00-a359-11eb-921a-6559bf0b2d53.png)   Figura 1.
-#### Bibliografía
+![image](https://user-images.githubusercontent.com/82826016/115761419-8c89e500-a35f-11eb-90f2-d321bde0bcfa.png)   Figura 1. 
 
-Bezjak, S., Clyburne-Sherin, A., Conzett, P., Fernandes, P., Görögh, E., Helbinf, K., Psomopoulos, F., Ross-Hellauer, T., Scheider, R., Tennant, J., Verbakel, E., Brinken, H., & Heller, L. (2018). Open Science Training Handboook, Zenodo.  https://doi.org/10.5281/ZENODO.1212496
+Bezjak, S., Clyburne-Sherin, A., Conzett, P., Fernandes, P., Görögh, E., Helbinf, K., Psomopoulos, F., Ross-Hellauer, T., Scheider, R., Tennant , J., Verbakel, E., Brinken, H. y Heller, L. (2018). Handboook de entrenamiento en ciencias abiertas, Zenodo.  https://doi.org/10.5281/ZENODO.1212496
 
 Claerbout, J. F. (1992). Earth Soundings Analysis: Processing Versus Inversion. Blackwell Science Inc.
 
