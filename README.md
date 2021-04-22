@@ -10,3 +10,4 @@ Importancia de la reproductibilidad
 
 Con el fin de resolver esta problemática, diferentes organizadores, como el Comité Internacional de Publicaciones de Medicina o la Administración de Aliemntos y Medicamentos de Estados Unidos [(FDA)](https://www.fda.gov/about-fda/fda-en-espanol), empezaron a publicar lineamientos para atacar los probelmas derivados de una inadecuada documentación de lo datos utilizados en las investigaciones. Así por ejemplo, como se muestra en la figura 1, Mark Zienman encontró en 2016 que un 20% de los artículos con archivos de datos suplemenatrios publicados en revistas científicas contenían errores en los nombres de los genes, debido a los parámetros de configuración de Microsoft Excel (Ziemann et al., 2016).  
 
+![Figura 1. Resultados de la revisón sistemática de archivos Excel suplementarios. Fuente: (Ziemann et al., 2016)].(![image](https://user-images.githubusercontent.com/82826016/115753696-b55aac00-a358-11eb-8a24-2d760f464d11.png)
