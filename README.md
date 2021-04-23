@@ -13,7 +13,8 @@ Con el fin de resolver esta problemática, diferentes organizadores, como el Com
 ![image](https://user-images.githubusercontent.com/82826016/115761419-8c89e500-a35f-11eb-90f2-d321bde0bcfa.png)  
 Figura 1. Resultados de la revisión sistemática de archivos Excel suplementarios. Fuente: (Ziemann et al., 2016).
 
-Bezjak, S., Clyburne-Sherin, A., Conzett, P., Fernandes, P., Görögh, E., Helbinf, K., Psomopoulos, F., Ross-Hellauer, T., Scheider, R., Tennant , J., Verbakel, E., Brinken, H. y Heller, L. (2018). Handboook de entrenamiento en ciencias abiertas, Zenodo.  https://doi.org/10.5281/ZENODO.1212496
+### Bibliografía
+
 
 Claerbout, J. F. (1992). Earth Soundings Analysis: Processing Versus Inversion. Blackwell Science Inc.
 
